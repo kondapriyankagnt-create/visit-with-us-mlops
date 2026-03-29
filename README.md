@@ -41,7 +41,7 @@ Build a **binary classification model** to predict:
 
 ## 🌐 Deployment
 - **Hugging Face App:** https://www.google.com/url?q=https%3A%2F%2Fhuggingface.co%2Fspaces%2FKondaPriyanka2367%2Fwellness-predictor-final
-- **GitHub Repository:** <>
+- **GitHub Repository:** https://github.com/kondapriyankagnt-create/visit-with-us-mlops
 
 ---
 
